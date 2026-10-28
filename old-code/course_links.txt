@@ -1,0 +1,45 @@
+# Список ссылок на курсы innovationcampus.ru
+# Добавьте сюда ссылки на ваши курсы (по одной на строку)
+# Строки начинающиеся с # будут проигнорированы
+
+# Пример:
+https://www.innovationcampus.ru/lms/mod/resource/view.php?id=2761
+https://www.innovationcampus.ru/lms/mod/resource/view.php?id=2762 
+https://www.innovationcampus.ru/lms/mod/resource/view.php?id=2763
+https://www.innovationcampus.ru/lms/mod/resource/view.php?id=2764
+https://www.innovationcampus.ru/lms/mod/resource/view.php?id=2765
+https://www.innovationcampus.ru/lms/mod/resource/view.php?id=2766
+https://www.innovationcampus.ru/lms/mod/resource/view.php?id=2767
+https://www.innovationcampus.ru/lms/mod/resource/view.php?id=2778
+https://www.innovationcampus.ru/lms/mod/resource/view.php?id=2779 
+https://www.innovationcampus.ru/lms/mod/resource/view.php?id=2780 
+https://www.innovationcampus.ru/lms/mod/resource/view.php?id=2713 
+https://www.innovationcampus.ru/lms/mod/resource/view.php?id=2752 
+https://www.innovationcampus.ru/lms/mod/resource/view.php?id=2753 
+https://www.innovationcampus.ru/lms/mod/resource/view.php?id=2754 
+https://www.innovationcampus.ru/lms/mod/resource/view.php?id=2756 
+https://www.innovationcampus.ru/lms/mod/resource/view.php?id=2757 
+https://www.innovationcampus.ru/lms/mod/resource/view.php?id=2758 
+https://www.innovationcampus.ru/lms/mod/resource/view.php?id=2759 
+https://www.innovationcampus.ru/lms/mod/resource/view.php?id=2760 
+https://www.innovationcampus.ru/lms/mod/resource/view.php?id=2781 
+https://www.innovationcampus.ru/lms/mod/resource/view.php?id=2782
+https://www.innovationcampus.ru/lms/mod/resource/view.php?id=2783
+https://www.innovationcampus.ru/lms/mod/resource/view.php?id=2784
+https://www.innovationcampus.ru/lms/mod/resource/view.php?id=2786
+https://www.innovationcampus.ru/lms/mod/resource/view.php?id=2785
+https://www.innovationcampus.ru/lms/mod/resource/view.php?id=2789
+https://www.innovationcampus.ru/lms/mod/resource/view.php?id=2790
+https://www.innovationcampus.ru/lms/mod/resource/view.php?id=2792
+https://www.innovationcampus.ru/lms/mod/resource/view.php?id=2791
+https://www.innovationcampus.ru/lms/mod/resource/view.php?id=2793
+https://www.innovationcampus.ru/lms/mod/resource/view.php?id=2768
+https://www.innovationcampus.ru/lms/mod/resource/view.php?id=2769
+https://www.innovationcampus.ru/lms/mod/resource/view.php?id=2770
+https://www.innovationcampus.ru/lms/mod/resource/view.php?id=2771
+https://www.innovationcampus.ru/lms/mod/resource/view.php?id=2772
+https://www.innovationcampus.ru/lms/mod/resource/view.php?id=2773
+https://www.innovationcampus.ru/lms/mod/resource/view.php?id=2774
+https://www.innovationcampus.ru/lms/mod/resource/view.php?id=2775
+https://www.innovationcampus.ru/lms/mod/resource/view.php?id=2776
+https://www.innovationcampus.ru/lms/mod/resource/view.php?id=2777
